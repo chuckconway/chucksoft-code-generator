@@ -1,0 +1,178 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B700B72E-0FCA-4314-8F95-F161A86A107F/d:Properties/f:AssemblyInfo.cs" caret="1178" fromTop="29" />
+      <File id="B700B72E-0FCA-4314-8F95-F161A86A107F/f:Main.Designer.cs" caret="0" fromTop="0" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/f:CodeGenSettings.cs" caret="59" fromTop="2" />
+      <File id="2DD68B37-BFE5-4782-8399-78139D1DA60B/f:ClassesLogic.cs" caret="3259" fromTop="67" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:SqlServerBase.template" caret="369" fromTop="13" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:ResourceAssets.cs" caret="0" fromTop="0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:StaticSolutionAssets.cs" caret="569" fromTop="17" />
+      <File id="2DD68B37-BFE5-4782-8399-78139D1DA60B/d:Render/f:DynamicProjectFiles.cs" caret="401" fromTop="13" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:Entity.cs" caret="1631" fromTop="44" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:StaticDbParametersResources.cs" caret="7084" fromTop="32" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:ResourcesWithoutPopulate.template" caret="1677" fromTop="13" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Resources.template" caret="554" fromTop="19" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Enity.template" caret="0" fromTop="0" />
+      <File id="2DD68B37-BFE5-4782-8399-78139D1DA60B/f:SolutionLogic.cs" caret="3701" fromTop="26" />
+      <File id="B700B72E-0FCA-4314-8F95-F161A86A107F/f:Main.cs" caret="2644" fromTop="24" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:Resources.cs" caret="900" fromTop="26" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="5297" fromTop="61" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:IGenerateMethods.cs" caret="304" fromTop="2" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:StoreProcedureGeneration.cs" caret="6001" fromTop="46" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:GenerationTemplates/d:Dynamic/f:ICompiledTemplate.cs" caret="250" fromTop="8" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:GenerationTemplates/d:Dynamic/f:CompiledTemplate.cs" caret="980" fromTop="24" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:StoredProcedure.template" caret="0" fromTop="0" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:GenerationTemplates/d:Static/f:StaticSolutionAsset.cs" caret="308" fromTop="7" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:GenerationTemplates/d:Dynamic/f:DynamicSolutionAsset.cs" caret="395" fromTop="11" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:GenerationTemplates/d:Dynamic/f:IDynamicSolutionAsset.cs" caret="297" fromTop="9" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:GenerationTemplates/f:IFolder.cs" caret="74" fromTop="2" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:GenerationTemplates/d:Static/f:IStaticSolutionAssets.cs" caret="143" fromTop="4" />
+      <File id="2DD68B37-BFE5-4782-8399-78139D1DA60B/f:ReflectionHelper.cs" caret="1404" fromTop="33" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:Templates/f:ClassLibraryProject.template" caret="2228" fromTop="47" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Resources.template" caret="956" fromTop="23" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:StaticDbParametersResources.cs" caret="3160" fromTop="31" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:StaticDbParametersResources.cs" caret="3096" fromTop="18" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:StaticDbParametersResources.cs" caret="3932" fromTop="29" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="4171" fromTop="45" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="229" fromTop="7" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="3395" fromTop="29" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="3396" fromTop="42" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="3147" fromTop="31" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="2193" fromTop="10" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="2006" fromTop="6" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="4171" fromTop="15" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="4892" fromTop="46" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="1207" fromTop="31" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Resources.template" caret="1546" fromTop="31" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Resources.template" caret="1299" fromTop="20" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Resources.template" caret="1695" fromTop="27" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Resources.template" caret="554" fromTop="19" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:ResourcesWithoutPopulate.template" caret="1677" fromTop="13" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="5299" fromTop="17" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="912" fromTop="12" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="619" fromTop="17" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="4966" fromTop="34" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:DynamicDbParametersResources.cs" caret="4773" fromTop="27" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:StaticDbParametersResources.cs" caret="7084" fromTop="32" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:SqlServerBase.template" caret="369" fromTop="13" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:Templates/f:ClassLibraryProject.template" caret="66" fromTop="1" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:Templates/f:ClassLibraryProject.template" caret="349" fromTop="5" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:Templates/f:ClassLibraryProject.template" caret="765" fromTop="14" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:Templates/f:ClassLibraryProject.template" caret="1555" fromTop="31" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="Load`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="new" priority="159" />
+      <Item value="AssemblyName" priority="28" />
+      <Item value="return" priority="31" />
+      <Item value="string" priority="319" />
+      <Item value="DataType`0" priority="31" />
+      <Item value="using" priority="61" />
+      <Item value="System" priority="61" />
+      <Item value="Linq" priority="53" />
+      <Item value="c" priority="63" />
+      <Item value="if" priority="319" />
+      <Item value="else" priority="95" />
+      <Item value="prop" priority="63" />
+      <Item value="bool" priority="61" />
+      <Item value="CodeGenSettings`0" priority="255" />
+      <Item value="settings" priority="553" />
+      <Item value="DatabaseColumn" priority="28" />
+      <Item value="ColumnType" priority="31" />
+      <Item value="Name" priority="32" />
+      <Item value="insertParameters" priority="95" />
+      <Item value="StringBuilder`0" priority="31" />
+      <Item value="builder" priority="155" />
+      <Item value="StringBuilder" priority="28" />
+      <Item value="returnIdentityFromInserts" priority="31" />
+      <Item value="useDynamicParameters" priority="31" />
+      <Item value="appendToTheEnd" priority="95" />
+      <Item value="column" priority="31" />
+      <Item value="IGenerateMethods`0" priority="223" />
+      <Item value="generateMethods" priority="64" />
+      <Item value="DynamicDbParametersResources" priority="28" />
+      <Item value="StaticDbParametersResources" priority="28" />
+      <Item value="public" priority="31" />
+      <Item value="table" priority="95" />
+      <Item value="primaryColumn" priority="62" />
+      <Item value="null" priority="30" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SqlServer.Management.Smo.DataType">
+      <Item value="SqlDataType" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SqlServer.Management.Smo.SqlDataType">
+      <Item value="ToString`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToLower`0" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Chucksoft.Entities.Database.DatabaseTable">
+      <Item value="Columns" priority="134" />
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Where`1" priority="53" />
+      <Item value="Add`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Chucksoft.Entities.Database.DatabaseColumn">
+      <Item value="IsPrimaryKey" priority="53" />
+      <Item value="Name" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="26" />
+      <Item value="Single`1" priority="26" />
+      <Item value="SingleOrDefault`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="53" />
+      <Item value="Empty" priority="53" />
+      <Item value="Format`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Chucksoft.Entities.CodeGenSettings">
+      <Item value="ReturnIdentityFromInserts" priority="80" />
+      <Item value="UseDynamicParameters" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="AppendLine`0" priority="80" />
+      <Item value="ToString`0" priority="26" />
+      <Item value="Append`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Chucksoft.Templates.IGenerateMethods">
+      <Item value="Render`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Chucksoft.Entities.GenerationTemplates.Dynamic.CompiledTemplate">
+      <Item value="RenderTemplate`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

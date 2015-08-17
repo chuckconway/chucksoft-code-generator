@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chucksoft.Entities", "Chucksoft.Entities.csproj", "{03EA8F9A-D2FF-44B4-AF07-DB222186FECF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chucksoft.UI.CodeGeneration", "..\Chucksoft.UI.CodeGeneration\Chucksoft.UI.CodeGeneration.csproj", "{B700B72E-0FCA-4314-8F95-F161A86A107F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chucksoft.Logic", "..\Chucksoft.Logic\Chucksoft.Logic.csproj", "{2DD68B37-BFE5-4782-8399-78139D1DA60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chucksoft.Resources", "..\Chucksoft.Resources\Chucksoft.Resources.csproj", "{4AF97BB2-A56C-45D2-BF8F-C9C6E0899CB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chucksoft.Templates", "..\Chucksoft.Templates\Chucksoft.Templates.csproj", "{F8CA328B-00C4-4B97-B4DE-0D11453D5A55}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Chucksoft.CodeGen.Setup", "..\Chucksoft.CodeGen.Setup\Chucksoft.CodeGen.Setup.vdproj", "{A4EB7876-4DB6-49AA-A8FE-41AED2A2DD57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03EA8F9A-D2FF-44B4-AF07-DB222186FECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EA8F9A-D2FF-44B4-AF07-DB222186FECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EA8F9A-D2FF-44B4-AF07-DB222186FECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EA8F9A-D2FF-44B4-AF07-DB222186FECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B700B72E-0FCA-4314-8F95-F161A86A107F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B700B72E-0FCA-4314-8F95-F161A86A107F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B700B72E-0FCA-4314-8F95-F161A86A107F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B700B72E-0FCA-4314-8F95-F161A86A107F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD68B37-BFE5-4782-8399-78139D1DA60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD68B37-BFE5-4782-8399-78139D1DA60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD68B37-BFE5-4782-8399-78139D1DA60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD68B37-BFE5-4782-8399-78139D1DA60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF97BB2-A56C-45D2-BF8F-C9C6E0899CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF97BB2-A56C-45D2-BF8F-C9C6E0899CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF97BB2-A56C-45D2-BF8F-C9C6E0899CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF97BB2-A56C-45D2-BF8F-C9C6E0899CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8CA328B-00C4-4B97-B4DE-0D11453D5A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CA328B-00C4-4B97-B4DE-0D11453D5A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CA328B-00C4-4B97-B4DE-0D11453D5A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CA328B-00C4-4B97-B4DE-0D11453D5A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4EB7876-4DB6-49AA-A8FE-41AED2A2DD57}.Debug|Any CPU.ActiveCfg = Debug
+		{A4EB7876-4DB6-49AA-A8FE-41AED2A2DD57}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

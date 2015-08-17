@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F8CA328B-00C4-4B97-B4DE-0D11453D5A55}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Chucksoft.Templates</RootNamespace>
+    <AssemblyName>Chucksoft.Templates</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Chucksoft.Core, Version=1.0.0.33, Culture=neutral, PublicKeyToken=3480c36974861ddd, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ThirdParty\Chucksoft.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="StaticDbParametersResources.cs" />
+    <Compile Include="DynamicDbParametersResources.cs" />
+    <Compile Include="IGenerateMethods.cs" />
+    <Compile Include="StoreProcedureGeneration.cs" />
+    <Compile Include="Entity.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources.cs" />
+    <Compile Include="ResourceAssets.cs" />
+    <Compile Include="StaticSolutionAssets.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Chucksoft.Entities\Chucksoft.Entities.csproj">
+      <Project>{03EA8F9A-D2FF-44B4-AF07-DB222186FECF}</Project>
+      <Name>Chucksoft.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Chucksoft.Resources\Chucksoft.Resources.csproj">
+      <Project>{4AF97BB2-A56C-45D2-BF8F-C9C6E0899CB0}</Project>
+      <Name>Chucksoft.Resources</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Templates\Enity.template">
+    </EmbeddedResource>
+    <EmbeddedResource Include="Templates\Logic.template">
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Templates\Resources.template" />
+    <EmbeddedResource Include="Templates\SqlServerBase.template" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Templates\StoredProcedure.template" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Templates\EntityBase.template" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Templates\ResourcesWithoutPopulate.template" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

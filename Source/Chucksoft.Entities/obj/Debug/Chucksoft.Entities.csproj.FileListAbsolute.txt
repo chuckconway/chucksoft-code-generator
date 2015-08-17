@@ -1,0 +1,38 @@
+C:\Projects\Current\CodeGeneration\Chucksoft.Entities\bin\Debug\Chucksoft.Entities.dll
+C:\Projects\Current\CodeGeneration\Chucksoft.Entities\bin\Debug\Chucksoft.Entities.pdb
+C:\Projects\Current\CodeGeneration\Chucksoft.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Current\CodeGeneration\Chucksoft.Entities\obj\Debug\Chucksoft.Entities.dll
+C:\Projects\Current\CodeGeneration\Chucksoft.Entities\obj\Debug\Chucksoft.Entities.pdb
+C:\Projects\Current\CodeGeneration\Chucksoft.Entities\bin\Debug\Conway.dll
+C:\Projects\Current\CodeGeneration\Chucksoft.Entities\bin\Debug\Conway.pdb
+C:\Projects\CodeGeneration\Chucksoft.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\CodeGeneration\Chucksoft.Entities\obj\Debug\Chucksoft.Entities.dll
+C:\Projects\CodeGeneration\Chucksoft.Entities\obj\Debug\Chucksoft.Entities.pdb
+C:\Projects\CodeGeneration\Chucksoft.Entities\bin\Debug\Chucksoft.Entities.dll
+C:\Projects\CodeGeneration\Chucksoft.Entities\bin\Debug\Chucksoft.Entities.pdb
+C:\Projects\CodeGeneration\Chucksoft.Entities\bin\Debug\Chucksoft.Core.dll
+C:\Projects\CodeGeneration\Chucksoft.Entities\bin\Debug\Chucksoft.Core.pdb
+C:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\bin\Debug\Chucksoft.Entities.dll
+C:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\bin\Debug\Chucksoft.Entities.pdb
+C:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\obj\Debug\Chucksoft.Entities.dll
+C:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\obj\Debug\Chucksoft.Entities.pdb
+C:\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\bin\Debug\Chucksoft.Entities.dll
+C:\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\bin\Debug\Chucksoft.Entities.pdb
+C:\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\obj\Debug\Chucksoft.Entities.dll
+C:\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\obj\Debug\Chucksoft.Entities.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\bin\Debug\Chucksoft.Entities.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\bin\Debug\Chucksoft.Entities.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\bin\Debug\Chucksoft.Core.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\bin\Debug\Chucksoft.Core.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\obj\Debug\ResolveAssemblyReference.cache
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\obj\Debug\Chucksoft.Entities.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\obj\Debug\Chucksoft.Entities.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\bin\Debug\Chucksoft.Entities.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\bin\Debug\Chucksoft.Entities.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\bin\Debug\Chucksoft.Core.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\bin\Debug\Chucksoft.Core.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\obj\Debug\Chucksoft.Entities.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Entities\obj\Debug\Chucksoft.Entities.pdb

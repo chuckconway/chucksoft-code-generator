@@ -1,0 +1,9 @@
+C:\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Resources\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Resources\bin\Release\Chucksoft.Resources.dll
+C:\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Resources\bin\Release\Chucksoft.Resources.pdb
+C:\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Resources\bin\Release\Chucksoft.Entities.dll
+C:\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Resources\bin\Release\Chucksoft.Core.dll
+C:\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Resources\bin\Release\Chucksoft.Entities.pdb
+C:\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Resources\bin\Release\Chucksoft.Core.pdb
+C:\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Resources\obj\Release\Chucksoft.Resources.dll
+C:\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Resources\obj\Release\Chucksoft.Resources.pdb

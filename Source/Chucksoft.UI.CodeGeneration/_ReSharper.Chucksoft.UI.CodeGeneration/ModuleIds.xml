@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="2DD68B37-BFE5-4782-8399-78139D1DA60B" ModuleId="Chucksoft.Logic" />
+  <Module PersistentId="03EA8F9A-D2FF-44B4-AF07-DB222186FECF" ModuleId="Chucksoft.Entities" />
+  <Module PersistentId="B700B72E-0FCA-4314-8F95-F161A86A107F" ModuleId="Chucksoft.UI.CodeGeneration" />
+  <Module PersistentId="4AF97BB2-A56C-45D2-BF8F-C9C6E0899CB0" ModuleId="Chucksoft.Resources" />
+  <Module PersistentId="F8CA328B-00C4-4B97-B4DE-0D11453D5A55" ModuleId="Chucksoft.Templates" />
+</Modules>

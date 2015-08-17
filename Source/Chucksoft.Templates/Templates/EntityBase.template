@@ -1,0 +1,63 @@
+﻿using System;
+using System.IO;
+using System.Text;
+using System.Xml;
+using System.Xml.Serialization;
+
+namespace <%[Namespace]%>
+{
+    public abstract class EntityBase 
+    {
+        /// <summary>
+        /// Returns the state saved internally by calling SaveState.
+        /// </summary>
+        private string _internalState;      
+
+        #region IDirty Members
+
+        public bool IsDirty()
+        {
+            string currentState = CurrentState();
+            bool isDirty = ((_internalState == null) || (currentState != _internalState));
+
+            return isDirty;
+        }
+
+        /// <summary>
+        /// Save (serialize) the state of the current object internally.
+        /// </summary>
+        public void SaveState()
+        {
+            if (_internalState == string.Empty)
+            {
+                string currentState = CurrentState();
+                _internalState = currentState;
+            }
+        }
+
+        #endregion
+
+        private string CurrentState()
+        {
+            return SerializeObject(GetType(), this);
+        }
+
+        private static string SerializeObject(Type type, object value)
+        {
+            MemoryStream memoryStream = new MemoryStream();
+            XmlSerializer xs = new XmlSerializer(type);
+
+            XmlTextWriter xmlTextWriter = new XmlTextWriter(memoryStream, Encoding.ASCII);
+            xs.Serialize(xmlTextWriter, value);
+            memoryStream = (MemoryStream)xmlTextWriter.BaseStream;
+
+            ASCIIEncoding ASCII = new ASCIIEncoding();
+
+            string serialized = ASCII.GetString(memoryStream.ToArray());
+
+            return serialized;
+        }
+
+
+    }
+}

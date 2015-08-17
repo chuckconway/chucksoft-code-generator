@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Chucksoft.UI.CodeGeneration">
+</Property><Property Name="Solution File" Value="F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Chucksoft.UI.CodeGeneration.sln">
+</Property><Property Name="Date" Value="Friday, September 09, 2011">
+</Property><Property Name="Time" Value="22:12:27 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Chucksoft.Logic" Source="..\Chucksoft.Logic\Chucksoft.Logic.csproj" Description="Project file successfully backed up as F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Backup1\Chucksoft.Logic.csproj">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Logic" Source="..\Chucksoft.Logic\Chucksoft.Logic.csproj.user" Description="Project user file successfully backed up as F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Backup1\Chucksoft.Logic.csproj.user">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Logic" Source="..\Chucksoft.Logic\ClassesLogic.cs" Description="File successfully backed up as F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Backup1\ClassesLogic.cs">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Logic" Source="..\Chucksoft.Logic\ProjectLogic.cs" Description="File successfully backed up as F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Backup1\ProjectLogic.cs">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Logic" Source="..\Chucksoft.Logic\Projects\ClassLibrary.cs" Description="File successfully backed up as F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Backup1\Projects\ClassLibrary.cs">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Logic" Source="..\Chucksoft.Logic\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Logic" Source="..\Chucksoft.Logic\ReflectionHelper.cs" Description="File successfully backed up as F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Backup1\ReflectionHelper.cs">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Logic" Source="..\Chucksoft.Logic\Render\DynamicProjectFiles.cs" Description="File successfully backed up as F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Backup1\Render\DynamicProjectFiles.cs">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Logic" Source="..\Chucksoft.Logic\Render\StaticProjectFiles.cs" Description="File successfully backed up as F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Backup1\Render\StaticProjectFiles.cs">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Logic" Source="..\Chucksoft.Logic\SolutionLogic.cs" Description="File successfully backed up as F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Backup1\SolutionLogic.cs">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Logic" Source="..\Chucksoft.Logic\Chucksoft.Logic.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Chucksoft.Logic" Source="..\Chucksoft.Logic\Chucksoft.Logic.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Logic" Source="..\Chucksoft.Logic\Chucksoft.Logic.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

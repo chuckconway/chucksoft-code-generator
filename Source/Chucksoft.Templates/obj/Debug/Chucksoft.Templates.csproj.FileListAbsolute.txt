@@ -1,0 +1,22 @@
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Templates.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Templates.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Core.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Entities.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Resources.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Entities.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Resources.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Core.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\obj\Debug\ResolveAssemblyReference.cache
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\obj\Debug\Chucksoft.Templates.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\obj\Debug\Chucksoft.Templates.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Templates.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Templates.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Core.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Entities.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Resources.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Entities.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Resources.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\bin\Debug\Chucksoft.Core.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\obj\Debug\Chucksoft.Templates.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Templates\obj\Debug\Chucksoft.Templates.pdb

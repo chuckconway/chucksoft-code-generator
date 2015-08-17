@@ -1,0 +1,43 @@
+C:\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.UI.CodeGeneration.exe.config
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\CodeGenerator.exe.config
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\CodeGenerator.exe
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\CodeGenerator.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Core.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Entities.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Logic.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Resources.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Templates.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Entities.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Logic.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Resources.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Templates.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Core.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\ResolveAssemblyReference.cache
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\Chucksoft.UI.CodeGeneration.Main.resources
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\Chucksoft.UI.CodeGeneration.Properties.Resources.resources
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\Chucksoft.UI.CodeGeneration.Settings.resources
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\ResGen.read.1.tlog
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\ResGen.write.1.tlog
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\CodeGenerator.exe
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\CodeGenerator.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\CodeGenerator.exe.config
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\CodeGenerator.exe
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\CodeGenerator.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Core.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Entities.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Logic.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Resources.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Templates.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Entities.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Logic.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Resources.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Templates.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\bin\Debug\Chucksoft.Core.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\Chucksoft.UI.CodeGeneration.Main.resources
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\Chucksoft.UI.CodeGeneration.Properties.Resources.resources
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\Chucksoft.UI.CodeGeneration.Settings.resources
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\ResGen.read.1.tlog
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\ResGen.write.1.tlog
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\CodeGenerator.exe
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\obj\Debug\CodeGenerator.pdb

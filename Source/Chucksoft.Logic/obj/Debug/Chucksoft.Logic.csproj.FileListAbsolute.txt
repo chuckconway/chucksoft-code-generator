@@ -1,0 +1,18 @@
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\bin\Debug\Chucksoft.Logic.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\bin\Debug\Chucksoft.Logic.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\bin\Debug\Chucksoft.Core.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\bin\Debug\Chucksoft.Entities.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\bin\Debug\Chucksoft.Entities.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\bin\Debug\Chucksoft.Core.pdb
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\obj\Debug\ResolveAssemblyReference.cache
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\obj\Debug\Chucksoft.Logic.dll
+F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\obj\Debug\Chucksoft.Logic.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\bin\Debug\Chucksoft.Logic.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\bin\Debug\Chucksoft.Logic.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\bin\Debug\Chucksoft.Core.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\bin\Debug\Chucksoft.Entities.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\bin\Debug\Chucksoft.Entities.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\bin\Debug\Chucksoft.Core.pdb
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\obj\Debug\Chucksoft.Logic.dll
+F:\Projects\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.Logic\obj\Debug\Chucksoft.Logic.pdb

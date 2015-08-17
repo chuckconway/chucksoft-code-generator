@@ -1,0 +1,482 @@
+<Configuration>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <Providers />
+  </UnitTestRunner>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CodeCleanup RecentlyUsed="Full Cleanup" />
+  <RecentFiles>
+    <RecentFiles>
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:GenerationTemplates/f:SolutionStaticContent.cs" caret="196" scrollPosition="0|0" />
+      <File id="2DD68B37-BFE5-4782-8399-78139D1DA60B/f:SolutionLogic.cs" caret="1501" scrollPosition="4|30" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:GenerationTemplates/d:Static/f:StaticSolutionAsset.cs" caret="210" scrollPosition="0|0" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:GenerationTemplates/d:Static/f:IStaticSolutionAssets.cs" caret="209" scrollPosition="0|0" />
+      <File id="D07FE034-C922-4D30-B3BC-1E5BE109066F/d:IO/f:EmbeddedResource.cs" caret="862" scrollPosition="0|0" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/f:VisualStudioSolution.cs" caret="1457" scrollPosition="0|15" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:StaticSolutionAssets.cs" caret="315" scrollPosition="0|0" />
+      <File id="D07FE034-C922-4D30-B3BC-1E5BE109066F/d:Security/d:Cryptography/f:RijndaelCryptography.cs" caret="492" scrollPosition="0|0" />
+      <File id="D07FE034-C922-4D30-B3BC-1E5BE109066F/d:Security/f:RandomNumber.cs" caret="0" scrollPosition="0|31" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:Entity.cs" caret="1036" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:EntityBase.cs" caret="374" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Enity.template" caret="204" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:EntityBase.template" caret="163" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:SqlServerBase.template" caret="91" scrollPosition="0|0" />
+      <File id="D07FE034-C922-4D30-B3BC-1E5BE109066F/d:Entities/f:EntityBase.cs" caret="0" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:ResourceAssets.cs" caret="1554" scrollPosition="0|0" />
+      <File id="4AF97BB2-A56C-45D2-BF8F-C9C6E0899CB0/d:Data/f:SqlTypeConversion.cs" caret="6513" scrollPosition="0|111" />
+      <File id="4AF97BB2-A56C-45D2-BF8F-C9C6E0899CB0/d:Data/f:DatabaseHelper.cs" caret="2908" scrollPosition="0|50" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:Resources.cs" caret="4599" scrollPosition="15|48" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/d:Database/f:DatabaseColumn.cs" caret="257" scrollPosition="13|0" />
+      <File id="2DD68B37-BFE5-4782-8399-78139D1DA60B/f:ClassesLogic.cs" caret="0" scrollPosition="0|0" />
+      <File id="2DD68B37-BFE5-4782-8399-78139D1DA60B/d:Render/f:DynamicProjectFiles.cs" caret="216" scrollPosition="0|48" />
+      <File id="2DD68B37-BFE5-4782-8399-78139D1DA60B/d:Projects/f:ClassLibrary.cs" caret="0" scrollPosition="0|0" />
+      <File id="03EA8F9A-D2FF-44B4-AF07-DB222186FECF/f:CodeGenSettings.cs" caret="65" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Resources.template" caret="1283" scrollPosition="0|57" />
+      <File id="B700B72E-0FCA-4314-8F95-F161A86A107F/f:Settings.cs" caret="0" scrollPosition="0|0" />
+      <File id="B700B72E-0FCA-4314-8F95-F161A86A107F/f:Main.cs" caret="0" scrollPosition="0|0" />
+      <File id="D07FE034-C922-4D30-B3BC-1E5BE109066F/d:Windows/d:UI/f:Explorer.cs" caret="0" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:StoredProcedure.template" caret="0" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:StoreProcedureGeneration.cs" caret="1753" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Resources.template" caret="1015" scrollPosition="0|9" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:Resources.cs" caret="4599" scrollPosition="15|87" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Resources.template" caret="196" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Resources.template" caret="98" scrollPosition="0|0" />
+      <File id="4AF97BB2-A56C-45D2-BF8F-C9C6E0899CB0/d:Data/f:SqlTypeConversion.cs" caret="6513" scrollPosition="0|129" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Resources.template" caret="1903" scrollPosition="0|45" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:EntityBase.cs" caret="1537" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:EntityBase.cs" caret="318" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:EntityBase.cs" caret="1163" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:EntityBase.template" caret="1713" scrollPosition="0|21" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:EntityBase.template" caret="132" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Enity.template" caret="169" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:EntityBase.cs" caret="947" scrollPosition="0|3" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:EntityBase.cs" caret="670" scrollPosition="42|3" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:EntityBase.cs" caret="33" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:Entity.cs" caret="1463" scrollPosition="0|23" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:Entity.cs" caret="410" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/f:Entity.cs" caret="1036" scrollPosition="0|0" />
+      <File id="D07FE034-C922-4D30-B3BC-1E5BE109066F/d:Security/d:Cryptography/f:RijndaelCryptography.cs" caret="178" scrollPosition="0|0" />
+      <File id="2DD68B37-BFE5-4782-8399-78139D1DA60B/d:Render/f:DynamicProjectFiles.cs" caret="2566" scrollPosition="41|15" />
+      <File id="2DD68B37-BFE5-4782-8399-78139D1DA60B/d:Render/f:DynamicProjectFiles.cs" caret="216" scrollPosition="0|0" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Resources.template" caret="2649" scrollPosition="0|72" />
+      <File id="F8CA328B-00C4-4B97-B4DE-0D11453D5A55/d:Templates/f:Resources.template" caret="1283" scrollPosition="0|24" />
+      <File id="B700B72E-0FCA-4314-8F95-F161A86A107F/f:Settings.cs" caret="2287" scrollPosition="0|34" />
+      <File id="D07FE034-C922-4D30-B3BC-1E5BE109066F/d:Windows/d:UI/f:Explorer.cs" caret="0" scrollPosition="0|0" />
+      <File id="D07FE034-C922-4D30-B3BC-1E5BE109066F/d:Windows/d:UI/f:Explorer.cs" caret="575" scrollPosition="0|0" />
+      <File id="D07FE034-C922-4D30-B3BC-1E5BE109066F/d:Windows/d:UI/f:Explorer.cs" caret="626" scrollPosition="0|0" />
+      <File id="D07FE034-C922-4D30-B3BC-1E5BE109066F/d:Windows/d:UI/f:Explorer.cs" caret="340" scrollPosition="0|0" />
+      <File id="B700B72E-0FCA-4314-8F95-F161A86A107F/f:Main.cs" caret="8818" scrollPosition="0|184" />
+      <File id="B700B72E-0FCA-4314-8F95-F161A86A107F/f:Main.cs" caret="8591" scrollPosition="0|184" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="65" />
+      <Item value="string" priority="236" />
+      <Item value="Databases" priority="4" />
+      <Item value="Database" priority="4" />
+      <Item value="new" priority="60" />
+      <Item value="bool" priority="23" />
+      <Item value="false" priority="6" />
+      <Item value="if" priority="39" />
+      <Item value="return" priority="62" />
+      <Item value="true" priority="12" />
+      <Item value="static" priority="32" />
+      <Item value="IsValidConnectionString" priority="0" />
+      <Item value="Text" priority="18" />
+      <Item value="int" priority="13" />
+      <Item value="Count" priority="16" />
+      <Item value="private" priority="33" />
+      <Item value="Server" priority="3" />
+      <Item value="server" priority="5" />
+      <Item value="GetServer" priority="1" />
+      <Item value="connectionString" priority="1" />
+      <Item value="foreach" priority="31" />
+      <Item value="List" priority="44" />
+      <Item value="List&lt;string&gt;" priority="7" />
+      <Item value="db" priority="0" />
+      <Item value="Name" priority="40" />
+      <Item value="Add" priority="17" />
+      <Item value="dbs" priority="0" />
+      <Item value="try" priority="1" />
+      <Item value="catch" priority="1" />
+      <Item value="MessageBox" priority="1" />
+      <Item value="Show" priority="2" />
+      <Item value="message" priority="2" />
+      <Item value="Exception" priority="2" />
+      <Item value="ex" priority="0" />
+      <Item value="Message" priority="1" />
+      <Item value="testConnectionTextBox" priority="0" />
+      <Item value="DataSource" priority="1" />
+      <Item value="SqlHelper" priority="4" />
+      <Item value="RetrieveDatabaseNames" priority="0" />
+      <Item value="databaseName" priority="0" />
+      <Item value="database" priority="3" />
+      <Item value="Tables" priority="4" />
+      <Item value="Columns" priority="18" />
+      <Item value="DataType" priority="6" />
+      <Item value="SqlDataType" priority="5" />
+      <Item value="for" priority="12" />
+      <Item value="Table" priority="0" />
+      <Item value="tables" priority="7" />
+      <Item value="table" priority="39" />
+      <Item value="prop" priority="9" />
+      <Item value="get" priority="18" />
+      <Item value="set" priority="15" />
+      <Item value="databaseTablesListBox" priority="2" />
+      <Item value="helper" priority="3" />
+      <Item value="RetrieveTables" priority="1" />
+      <Item value="Items" priority="9" />
+      <Item value="SelectedItems" priority="0" />
+      <Item value="index" priority="32" />
+      <Item value="generationTablesListBox" priority="2" />
+      <Item value="void" priority="14" />
+      <Item value="ListBox" priority="3" />
+      <Item value="tableNames" priority="1" />
+      <Item value="name" priority="1" />
+      <Item value="ToString" priority="30" />
+      <Item value="fromIndex" priority="2" />
+      <Item value="from" priority="1" />
+      <Item value="Equals" priority="1" />
+      <Item value="tableName" priority="2" />
+      <Item value="to" priority="1" />
+      <Item value="hasDupulicate" priority="1" />
+      <Item value="break" priority="2" />
+      <Item value="Remove" priority="1" />
+      <Item value="Attribute" priority="0" />
+      <Item value="Guid" priority="9" />
+      <Item value="GeneratedClass" priority="0" />
+      <Item value="IVisualStudioProject" priority="6" />
+      <Item value="fixed" priority="1" />
+      <Item value="Empty" priority="29" />
+      <Item value="projectGuid" priority="1" />
+      <Item value="NewGuid" priority="1" />
+      <Item value="Project" priority="1" />
+      <Item value="StringBuilder" priority="25" />
+      <Item value="Classes" priority="2" />
+      <Item value="AppendLine" priority="22" />
+      <Item value="builder" priority="22" />
+      <Item value="gc" priority="0" />
+      <Item value="ProjectGuid" priority="2" />
+      <Item value="ProjectNamespace" priority="9" />
+      <Item value="RootNamespace" priority="3" />
+      <Item value="switch" priority="2" />
+      <Item value="sqlType" priority="0" />
+      <Item value="case" priority="1" />
+      <Item value="default" priority="0" />
+      <Item value="Projects" priority="2" />
+      <Item value="Environment" priority="4" />
+      <Item value="NewLine" priority="3" />
+      <Item value="BuildProjectSection" priority="0" />
+      <Item value="solutionGuid" priority="2" />
+      <Item value="project" priority="4" />
+      <Item value="solution" priority="1" />
+      <Item value="Class" priority="0" />
+      <Item value="Assembly" priority="9" />
+      <Item value="List&lt;Assembly&gt;" priority="0" />
+      <Item value="File" priority="9" />
+      <Item value="FileInfo" priority="1" />
+      <Item value="files" priority="0" />
+      <Item value="DirectoryInfo" priority="2" />
+      <Item value="dirInfo" priority="0" />
+      <Item value="GetFiles" priority="0" />
+      <Item value="assemblies" priority="2" />
+      <Item value="LoadFile" priority="0" />
+      <Item value="file" priority="1" />
+      <Item value="FullName" priority="0" />
+      <Item value="assembly" priority="2" />
+      <Item value="typeof" priority="3" />
+      <Item value="GetTypes" priority="0" />
+      <Item value="type" priority="6" />
+      <Item value="GetInterface" priority="0" />
+      <Item value="ICompiledTemplate" priority="11" />
+      <Item value="List&lt;ICompiledTemplate&gt;" priority="1" />
+      <Item value="compiledTemplates" priority="0" />
+      <Item value="DatabaseColumn" priority="6" />
+      <Item value="DatabaseTable" priority="10" />
+      <Item value="List&lt;DatabaseTable&gt;" priority="0" />
+      <Item value="Convert" priority="1" />
+      <Item value="Generate" priority="1" />
+      <Item value="Trim" priority="5" />
+      <Item value="DatabaseHelper" priority="0" />
+      <Item value="Column" priority="0" />
+      <Item value="List&lt;DatabaseColumn&gt;" priority="1" />
+      <Item value="column" priority="12" />
+      <Item value="col" priority="7" />
+      <Item value="ColumnType" priority="2" />
+      <Item value="ConvertSqlTypesToCSharpShorthand" priority="0" />
+      <Item value="columns" priority="1" />
+      <Item value="RetrieveColumns" priority="0" />
+      <Item value="ToLower" priority="8" />
+      <Item value="folderPickerDialog" priority="3" />
+      <Item value="ShowDialog" priority="2" />
+      <Item value="DialogResult" priority="1" />
+      <Item value="result" priority="0" />
+      <Item value="OK" priority="3" />
+      <Item value="outputDirectoryTextBox" priority="2" />
+      <Item value="SelectedPath" priority="0" />
+      <Item value="ShowNewFolderButton" priority="0" />
+      <Item value="Clear" priority="1" />
+      <Item value="ClassFilePath" priority="7" />
+      <Item value="interface" priority="1" />
+      <Item value="ReflectionHelper" priority="3" />
+      <Item value="LoadAssemblies" priority="0" />
+      <Item value="templates" priority="1" />
+      <Item value="LoadTemplates" priority="1" />
+      <Item value="AddRange" priority="0" />
+      <Item value="ClassesLogic" priority="0" />
+      <Item value="GenerateClasses" priority="0" />
+      <Item value="rootNameSpace" priority="1" />
+      <Item value="outputDirectory" priority="4" />
+      <Item value="rootNamespace" priority="2" />
+      <Item value="Path" priority="3" />
+      <Item value="GetFullPath" priority="0" />
+      <Item value="TextBox" priority="1" />
+      <Item value="sender" priority="0" />
+      <Item value="templateTextBox" priority="1" />
+      <Item value="GetType" priority="2" />
+      <Item value="Attributes" priority="1" />
+      <Item value="attributes" priority="0" />
+      <Item value="GetCustomAttributes" priority="0" />
+      <Item value="abstract" priority="4" />
+      <Item value="override" priority="0" />
+      <Item value="Entity" priority="0" />
+      <Item value="IProject" priority="1" />
+      <Item value="template" priority="4" />
+      <Item value="IsSubclassOf" priority="0" />
+      <Item value="CompiledTemplate" priority="0" />
+      <Item value="FileStyleUriParser" priority="1" />
+      <Item value="Exists" priority="3" />
+      <Item value="projectNamespace" priority="2" />
+      <Item value="Directory" priority="1" />
+      <Item value="CreateDirectory" priority="1" />
+      <Item value="Create" priority="0" />
+      <Item value="WriteAllText" priority="4" />
+      <Item value="ClassName" priority="1" />
+      <Item value="RenderTemplate" priority="2" />
+      <Item value="classNamespace" priority="0" />
+      <Item value="customClass" priority="0" />
+      <Item value="ReadAllText" priority="0" />
+      <Item value="contents" priority="13" />
+      <Item value="Replace" priority="6" />
+      <Item value="CustomClass" priority="0" />
+      <Item value="List&lt;IVisualStudioProject&gt;" priority="0" />
+      <Item value="isNewProject" priority="2" />
+      <Item value="vsProjects" priority="3" />
+      <Item value="ClassLibrary" priority="6" />
+      <Item value="projectFile" priority="2" />
+      <Item value="else" priority="6" />
+      <Item value="projects" priority="0" />
+      <Item value="wasFound" priority="1" />
+      <Item value="Render" priority="5" />
+      <Item value="ProjectDirectory" priority="0" />
+      <Item value="projectDirectory" priority="0" />
+      <Item value="VisualStudioSolution" priority="1" />
+      <Item value="Encoding" priority="0" />
+      <Item value="UTF8" priority="1" />
+      <Item value="FilenameAppending" priority="2" />
+      <Item value="Append" priority="5" />
+      <Item value="content" priority="12" />
+      <Item value="RetrieveTemplates" priority="0" />
+      <Item value="customClassContent" priority="1" />
+      <Item value="GetCallingAssembly" priority="0" />
+      <Item value="FileStream" priority="0" />
+      <Item value="Stream" priority="0" />
+      <Item value="data" priority="0" />
+      <Item value="using" priority="1" />
+      <Item value="stream" priority="0" />
+      <Item value="GetAssembly" priority="0" />
+      <Item value="GetString" priority="0" />
+      <Item value="TypeDelegator" priority="1" />
+      <Item value="MessageBoxButtons" priority="1" />
+      <Item value="OKCancel" priority="1" />
+      <Item value="MessageBoxIcon" priority="1" />
+      <Item value="Error" priority="1" />
+      <Item value="this" priority="1" />
+      <Item value="Close" priority="0" />
+      <Item value="Settings" priority="1" />
+      <Item value="settings" priority="6" />
+      <Item value="Serializable" priority="0" />
+      <Item value="UserControl" priority="0" />
+      <Item value="Default" priority="10" />
+      <Item value="User" priority="8" />
+      <Item value="CompiledTemplateLocation" priority="4" />
+      <Item value="rootNameSpaceTextBox" priority="0" />
+      <Item value="SolutionNamespace" priority="10" />
+      <Item value="Context" priority="0" />
+      <Item value="CodeGenerationDirectory" priority="8" />
+      <Item value="DatabaseConnectionString" priority="6" />
+      <Item value="Information" priority="1" />
+      <Item value="Save" priority="0" />
+      <Item value="Cursor" priority="1" />
+      <Item value="Cursors" priority="1" />
+      <Item value="WaitCursor" priority="0" />
+      <Item value="Arrow" priority="0" />
+      <Item value="ASCIIEncoding" priority="0" />
+      <Item value="encoding" priority="0" />
+      <Item value="UTF8Encoding" priority="1" />
+      <Item value="IndexOf" priority="0" />
+      <Item value="Insert" priority="1" />
+      <Item value="solutionName" priority="0" />
+      <Item value="Resources" priority="0" />
+      <Item value="IsPrimaryKey" priority="4" />
+      <Item value="InPrimaryKey" priority="0" />
+      <Item value="IsForeignKey" priority="1" />
+      <Item value="IsNullable" priority="1" />
+      <Item value="Nullable" priority="0" />
+      <Item value="IClassMetadata" priority="1" />
+      <Item value="IFilename" priority="0" />
+      <Item value="ConvertStreamResourceToString" priority="0" />
+      <Item value="enum" priority="0" />
+      <Item value="ProjectType" priority="0" />
+      <Item value="ResourceAssets" priority="0" />
+      <Item value="base" priority="4" />
+      <Item value="Filename" priority="4" />
+      <Item value="assets" priority="0" />
+      <Item value="Split" priority="2" />
+      <Item value="namespaceSegments" priority="0" />
+      <Item value="Length" priority="2" />
+      <Item value="namespaces" priority="1" />
+      <Item value="classmeta" priority="1" />
+      <Item value="segs" priority="1" />
+      <Item value="MethodAttributes" priority="0" />
+      <Item value="GenerateDynamicClasses" priority="0" />
+      <Item value="GenerateStaticClasses" priority="0" />
+      <Item value="RenderProjects" priority="0" />
+      <Item value="T" priority="0" />
+      <Item value="IsClass" priority="0" />
+      <Item value="IsAbstract" priority="0" />
+      <Item value="IsNullOrEmpty" priority="7" />
+      <Item value="object" priority="5" />
+      <Item value="CompidedTemplateLocation" priority="3" />
+      <Item value="DynamicFiles" priority="0" />
+      <Item value="TimeZoneNotFoundException" priority="1" />
+      <Item value="CodeGenSettings" priority="5" />
+      <Item value="C" priority="0" />
+      <Item value="IStaticAsset" priority="1" />
+      <Item value="StaticFiles" priority="0" />
+      <Item value="asset" priority="6" />
+      <Item value="metadata" priority="1" />
+      <Item value="SetNamespace" priority="2" />
+      <Item value="filename" priority="0" />
+      <Item value="List&lt;StaticContent&lt;string&gt;&gt;" priority="0" />
+      <Item value="StaticContent&lt;string&gt;" priority="0" />
+      <Item value="FileName" priority="6" />
+      <Item value="Content" priority="6" />
+      <Item value="StaticContent" priority="1" />
+      <Item value="ProjectArtifact" priority="8" />
+      <Item value="CreateGeneratedFile" priority="1" />
+      <Item value="createGeneratedFile" priority="0" />
+      <Item value="projectClassPath" priority="0" />
+      <Item value="fileName" priority="2" />
+      <Item value="filenameSegments" priority="1" />
+      <Item value="LastIndexOf" priority="0" />
+      <Item value="segments" priority="1" />
+      <Item value="Array" priority="0" />
+      <Item value="ArrayList" priority="0" />
+      <Item value="array" priority="0" />
+      <Item value="lastPosition" priority="0" />
+      <Item value="CreateGeneratedCounterpart" priority="2" />
+      <Item value="GetExtension" priority="0" />
+      <Item value="GetFileNameWithoutExtension" priority="0" />
+      <Item value="extension" priority="0" />
+      <Item value="ComposeGeneratedFilename" priority="0" />
+      <Item value="filePath" priority="0" />
+      <Item value="List&lt;object&gt;" priority="0" />
+      <Item value="SetStatusText" priority="1" />
+      <Item value="Exclamation" priority="0" />
+      <Item value="IDynamicSolutionAsset" priority="0" />
+      <Item value="IStaticSolutionAsset" priority="0" />
+      <Item value="GenerateStaticSolutionAssets" priority="0" />
+      <Item value="GenerateDynamicSolutionAssets" priority="0" />
+      <Item value="path" priority="1" />
+      <Item value="GetFileName" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="ContentNotFound" priority="1" />
+      <Item value="finally" priority="0" />
+      <Item value="List&lt;IDynamicSolutionAsset&gt;" priority="0" />
+      <Item value="DirectoryName" priority="1" />
+      <Item value="StaticSolutionAsset" priority="0" />
+      <Item value="SolutionStaticContent" priority="0" />
+      <Item value="IFolder" priority="0" />
+      <Item value="FolderName" priority="2" />
+      <Item value="DynamicSolutionAssets" priority="0" />
+      <Item value="GenerationArtifact" priority="5" />
+      <Item value="artifact" priority="3" />
+      <Item value="List&lt;GenerationArtifact&gt;" priority="0" />
+      <Item value="art" priority="2" />
+      <Item value="StaticSolutionAssets" priority="0" />
+      <Item value="Now" priority="0" />
+      <Item value="ToLongDateString" priority="0" />
+      <Item value="prodecures" priority="0" />
+      <Item value="storedProcedureTemplate" priority="1" />
+      <Item value="contentBuilder" priority="1" />
+      <Item value="internal" priority="0" />
+      <Item value="Format" priority="1" />
+      <Item value="MaximumLength" priority="1" />
+      <Item value="SqlColumnType" priority="3" />
+      <Item value="AppendFormat" priority="0" />
+      <Item value="ConvertSqlTypeToSqlNativeType" priority="0" />
+      <Item value="GenrateParameterColumn" priority="0" />
+      <Item value="primaryKeyCount" priority="0" />
+      <Item value="primaryKeyColumns" priority="2" />
+      <Item value="ritar" priority="0" />
+      <Item value="whereClause" priority="1" />
+      <Item value="isLastColumn" priority="0" />
+      <Item value="procedureName" priority="0" />
+      <Item value="statement" priority="0" />
+      <Item value="GetUpdateColumns" priority="0" />
+      <Item value="Clone" priority="0" />
+      <Item value="_content" priority="8" />
+      <Item value="NVarChar" priority="0" />
+      <Item value="VarChar" priority="0" />
+      <Item value="UniqueIdentifier" priority="0" />
+      <Item value="Bit" priority="0" />
+      <Item value="TinyInt" priority="0" />
+      <Item value="SmallInt" priority="0" />
+      <Item value="Int" priority="0" />
+      <Item value="BigInt" priority="0" />
+      <Item value="SmallMoney" priority="0" />
+      <Item value="Money" priority="0" />
+      <Item value="Numeric" priority="0" />
+      <Item value="Decimal" priority="0" />
+      <Item value="Real" priority="0" />
+      <Item value="Float" priority="0" />
+      <Item value="SmallDateTime" priority="0" />
+      <Item value="DateTime" priority="0" />
+      <Item value="SqlClientDbType" priority="2" />
+      <Item value="ConvertSqlTypesToSqlClientDbType" priority="1" />
+      <Item value="Size" priority="1" />
+      <Item value="generatePrimaryKey" priority="0" />
+      <Item value="ToBoolean" priority="0" />
+      <Item value="ToByte" priority="0" />
+      <Item value="ToInt16" priority="0" />
+      <Item value="ToDecimal" priority="0" />
+      <Item value="ToSingle" priority="0" />
+      <Item value="FindConvertToMethodsBySqlType" priority="0" />
+      <Item value="GetItem" priority="0" />
+      <Item value="GenerateDeleteMethods" priority="0" />
+      <Item value="GenerateInsertMethods" priority="0" />
+      <Item value="GenerateUpdateMethods" priority="0" />
+      <Item value="SqlColumnTypeAndSize" priority="1" />
+      <Item value="explicit" priority="0" />
+      <Item value="Explorer" priority="1" />
+      <Item value="Open" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

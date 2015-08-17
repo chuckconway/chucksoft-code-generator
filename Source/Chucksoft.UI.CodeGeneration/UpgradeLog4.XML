@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Chucksoft.UI.CodeGeneration">
+</Property><Property Name="Solution File" Value="F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Chucksoft.UI.CodeGeneration.sln">
+</Property><Property Name="Date" Value="Friday, September 09, 2011">
+</Property><Property Name="Time" Value="22:15:41 PM">
+</Property><Property Name="Log Number" Value="4">
+</Property></Properties><Event ErrorLevel="0" Project="Chucksoft.Resources" Source="..\Chucksoft.Resources\Chucksoft.Resources.csproj" Description="Project file successfully backed up as F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Backup3\Chucksoft.Resources.csproj">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Resources" Source="..\Chucksoft.Resources\Data\DatabaseHelper.cs" Description="File successfully backed up as F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Backup3\Data\DatabaseHelper.cs">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Resources" Source="..\Chucksoft.Resources\Data\SqlTypeConversion.cs" Description="File successfully backed up as F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Backup3\Data\SqlTypeConversion.cs">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Resources" Source="..\Chucksoft.Resources\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Desktop Drive\Projects\Archived\Personal\ChucksoftCodeGenerator\Branches\0.8.0\Source\Chucksoft.UI.CodeGeneration\Backup3\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Resources" Source="..\Chucksoft.Resources\Chucksoft.Resources.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Chucksoft.Resources" Source="..\Chucksoft.Resources\Chucksoft.Resources.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Chucksoft.Resources" Source="..\Chucksoft.Resources\Chucksoft.Resources.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

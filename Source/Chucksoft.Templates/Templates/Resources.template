@@ -1,0 +1,72 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
+
+namespace <%[Namespace]%>
+{
+	public class <%[Class]%> : RepositoryBase
+	{		
+		
+	    /// <summary>
+        /// Inserts <%[TableName]%> into the <%[TableName]%>s Table
+        /// </summary>
+        /// <param name="<%[TableParameter]%>">A new populated <%[TableParameter]%>.</param>
+        /// <returns>Insert Count</returns>
+        public int Insert(<%[TableName]%> <%[TableParameter]%>)
+        {       
+<%[InsertMethod]%>
+        }
+			
+	    /// <summary>
+        /// Updates the <%[TableName]%> table by the primary key, if the <%[TableName]%> is dirty then an update will occur
+        /// </summary>
+        /// <param name="<%[TableParameter]%>">a populated <%[TableParameter]%></param>
+        /// <returns>update count</returns>
+        public int Update(<%[TableName]%> <%[TableParameter]%>)
+        {
+<%[UpdateMethod]%>
+        }
+        
+        /// <summary>
+        /// Delete a <%[TableName]%> by the primary key
+        /// </summary>
+        /// <param name="<%[TableParameter]%>"></param>
+        public int Delete(<%[TableName]%> <%[TableParameter]%>)
+        {
+<%[DeleteMethod]%>
+        }  
+        
+		/// <summary>
+        /// Retrieves All
+        /// </summary>
+        public List<<%[TableName]%>> RetrieveAll()
+        {
+<%[RetreveAllMethod]%>
+        }  
+        
+		/// <summary>
+        /// Retrieves by the primary key
+        /// </summary>
+        /// <param name="key"></param>
+        public <%[TableName]%> RetrieveByPrimaryKey(int key)
+        {
+<%[RetreveByPrimaryKeyMethod]%>
+        }  
+        
+        /// <summary>
+        /// Populates the specified reader.
+        /// </summary>
+        /// <param name="reader">The reader.</param>
+        /// <returns></returns>
+        private static <%[TableName]%> Populate(INullableReader reader)
+        {
+            <%[TableName]%> <%[LowerCaseTableName]%> = new <%[TableName]%>
+                                                  {
+														<%[PopulateProperities]%>
+                                                  };
+            return <%[LowerCaseTableName]%>;
+        }
+
+    }
+}
